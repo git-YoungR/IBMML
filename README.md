@@ -1,2 +1,2 @@
 # IBMML
-IBM Machine Learning study notes
+IBM Machine Learning capstone study notes
